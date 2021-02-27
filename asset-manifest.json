@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/rba-react-deploy/static/css/main.4c3d8570.chunk.css",
+    "main.js": "/rba-react-deploy/static/js/main.ba5b5997.chunk.js",
+    "main.js.map": "/rba-react-deploy/static/js/main.ba5b5997.chunk.js.map",
+    "runtime-main.js": "/rba-react-deploy/static/js/runtime-main.55736ba9.js",
+    "runtime-main.js.map": "/rba-react-deploy/static/js/runtime-main.55736ba9.js.map",
+    "static/css/2.150d169a.chunk.css": "/rba-react-deploy/static/css/2.150d169a.chunk.css",
+    "static/js/2.7416c04c.chunk.js": "/rba-react-deploy/static/js/2.7416c04c.chunk.js",
+    "static/js/2.7416c04c.chunk.js.map": "/rba-react-deploy/static/js/2.7416c04c.chunk.js.map",
+    "index.html": "/rba-react-deploy/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/rba-react-deploy/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4c3d8570.chunk.css.map": "/rba-react-deploy/static/css/main.4c3d8570.chunk.css.map",
+    "static/js/2.7416c04c.chunk.js.LICENSE.txt": "/rba-react-deploy/static/js/2.7416c04c.chunk.js.LICENSE.txt",
+    "static/media/banner.106bdfb5.jpg": "/rba-react-deploy/static/media/banner.106bdfb5.jpg",
+    "static/media/img1.ec9eaa13.jpg": "/rba-react-deploy/static/media/img1.ec9eaa13.jpg",
+    "static/media/img2.60da0d3b.jpg": "/rba-react-deploy/static/media/img2.60da0d3b.jpg",
+    "static/media/img3.4e34edaa.jpg": "/rba-react-deploy/static/media/img3.4e34edaa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55736ba9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7416c04c.chunk.js",
+    "static/css/main.4c3d8570.chunk.css",
+    "static/js/main.ba5b5997.chunk.js"
+  ]
+}
